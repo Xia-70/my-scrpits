@@ -3,11 +3,6 @@
 
 usage: md-img-download.py [-h] [-y] [-p DIR] [--recursion] [--delete] [-v] paths [paths ...]
 
-Markdown图片下载整理工具 v1.0
-
-功能：
-自动整理Markdown文件中的网络图片到本地相对路径img子文件夹
-
 positional arguments:
   paths               Markdown文件路径或包含Markdown文件的目录
 
