@@ -13,7 +13,7 @@ v1.0
 - 支持递归处理目录中的多个 Markdown 文件
 
 ## 使用说明
-usage: md-img-download.py [-h] [-y] [-p DIR] [--recursion] [--delete] [-v] paths [paths ...]
+`usage: md-img-download.py [-h] [-y] [-p DIR] [--recursion] [--delete] [-v] paths [paths ...]`
 
 ### 参数说明
 | 参数 | 描述 |
